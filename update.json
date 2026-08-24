@@ -1,9 +1,9 @@
 {
   "packageName": "com.xander.mqbobdmonitor",
-  "versionCode": 15,
-  "versionName": "0.1.15",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/MQB-OBD-Monitor-Releases@main/MQB-OBD-Monitor-0.1.15.apk",
-  "sha256": "fb11b9a76802b806a063a3df554dec60eda627cf9f21b411b518596a16a45faa",
-  "notes": "15 тестовая версия MQB OBD Monitor.",
-  "publishedAt": "2026-08-23T21:13:30.636715+00:00"
+  "versionCode": 16,
+  "versionName": "0.1.16",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/MQB-OBD-Monitor-Releases@main/MQB-OBD-Monitor-0.1.16.apk",
+  "sha256": "ba421e8d06dd676681f5ff5cddaa62f88f82b2b4558f02153e74487be45fc209",
+  "notes": "16 тестовая версия MQB OBD Monitor.",
+  "publishedAt": "2026-08-24T11:11:45.515095+00:00"
 }
