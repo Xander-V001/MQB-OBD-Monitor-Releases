@@ -1,9 +1,9 @@
 {
   "packageName": "com.xander.mqbobdmonitor",
-  "versionCode": 69,
-  "versionName": "0.1.69",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/MQB-OBD-Monitor-Releases@main/MQB-OBD-Monitor-0.1.69.apk",
-  "sha256": "8afd0d089b81704862e19eae16cdab9a21b9bf19ef4b3e312fae954740a08a2f",
-  "notes": "Причесывание",
-  "publishedAt": "2026-09-09T11:20:12.720142+00:00"
+  "versionCode": 70,
+  "versionName": "0.1.70",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/MQB-OBD-Monitor-Releases@main/MQB-OBD-Monitor-0.1.70.apk",
+  "sha256": "532391c38e0234d5a6da4ebcf5e0d909390406a97138541783917df7f0d8f368",
+  "notes": "Все лучше и лучше",
+  "publishedAt": "2026-09-09T16:44:12.854252+00:00"
 }
