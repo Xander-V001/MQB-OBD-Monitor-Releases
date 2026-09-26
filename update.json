@@ -1,9 +1,9 @@
 {
   "packageName": "com.xander.mqbobdmonitor",
-  "versionCode": 72,
-  "versionName": "0.1.72",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/MQB-OBD-Monitor-Releases@main/MQB-OBD-Monitor-0.1.72.apk",
-  "sha256": "fc4da3e4c29886bf821f77fb2ff8291cc7772373b3256811cbb3b4c78d2288f5",
-  "notes": "Добавлен раздел обслуживание ",
-  "publishedAt": "2026-09-26T13:42:23.363697+00:00"
+  "versionCode": 73,
+  "versionName": "0.1.73",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/MQB-OBD-Monitor-Releases@main/MQB-OBD-Monitor-0.1.73.apk",
+  "sha256": "8a117ddeb7c08973741e2d3be00803b56b366a99811f8564d719b5ade7864038",
+  "notes": "Доработка обслуживания",
+  "publishedAt": "2026-09-26T16:23:19.590339+00:00"
 }
