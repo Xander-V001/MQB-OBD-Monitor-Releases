@@ -1,9 +1,9 @@
 {
   "packageName": "com.xander.mqbobdmonitor",
-  "versionCode": 78,
-  "versionName": "0.1.78",
-  "apkUrl": "https://raw.githubusercontent.com/Xander-V001/MQB-OBD-Monitor-Releases/main/MQB-OBD-Monitor-0.1.78.apk",
-  "sha256": "298be1ffa4c0503d589b0216da32a7874b7330ccc62180fafe6cacdd551102df",
-  "notes": "Доработка AL",
-  "publishedAt": "2026-11-06T18:55:32.956345+00:00"
+  "versionCode": 79,
+  "versionName": "0.1.79",
+  "apkUrl": "https://raw.githubusercontent.com/Xander-V001/MQB-OBD-Monitor-Releases/main/MQB-OBD-Monitor-0.1.79.apk",
+  "sha256": "0656ec2af46b6ec061aca2188fa757282ddd66d67a4fe9c79e6b50af6087de50",
+  "notes": "Вот такая вот хуйня собачка ",
+  "publishedAt": "2026-11-06T20:32:09.854804+00:00"
 }
